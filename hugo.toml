@@ -1,4 +1,4 @@
-baseURL = "https://nhorizonhome-a11y.github.io/fray-tomas/"
+baseURL = "https://nhorizonhome-a11y.github.io/fray_tomas_blog/"
 languageCode = "es"
 title = "Fray Tomás — Diarium Digital"
 theme = "PaperMod"
@@ -32,5 +32,5 @@ theme = "PaperMod"
     weight = 2
   [[menu.main]]
     name = "Foro"
-    url = "https://github.com/nhorizonhome-a11y/fray-tomas/discussions"
+    url = "https://github.com/nhorizonhome-a11y/fray_tomas_blog/discussions"
     weight = 3
